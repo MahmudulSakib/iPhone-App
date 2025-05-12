@@ -4,7 +4,7 @@
 ![Watch the app](/src/app/iphone-git/hero.png)
 ![Watch the app](/src/app/iphone-git/feature.png)
 ![Watch the app](/src/app/iphone-git/highlights.png)
-![Watch the app](/src/app/iphone-git/footer.png)
+![Watch the app](/src/app/iphone-git/footers.png)
 
 ## ⚙️Tech Stack
 
