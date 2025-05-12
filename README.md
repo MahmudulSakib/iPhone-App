@@ -1,10 +1,10 @@
 # 📱iPhone Web App With Full Responsiveness
 
-[![Watch the app](/src/app/iphone-git/home.png)]
-[![Watch the app](/src/app/iphone-git/hero.png)]
-[![Watch the app](/src/app/iphone-git/feature.png)]
-[![Watch the app](/src/app/iphone-git/highlights.png)]
-[![Watch the app](/src/app/iphone-git/footer.png)]
+![Watch the app](/src/app/iphone-git/home.png)
+![Watch the app](/src/app/iphone-git/hero.png)
+![Watch the app](/src/app/iphone-git/feature.png)
+![Watch the app](/src/app/iphone-git/highlights.png)
+![Watch the app](/src/app/iphone-git/footer.png)
 
 ## ⚙️Tech Stack
 
